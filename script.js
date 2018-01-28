@@ -135,6 +135,8 @@ for (var a = 0; a < tLength; a++) {
 	texts[a] = [];
 }
 
+// old ORIGINAL texts
+/*
 texts = [ 
 	["English", "Thank You."],
 	["French", "Merci."],
@@ -149,6 +151,11 @@ texts = [
 
 
 ];
+*/
+
+//NEWLY ADDED TEXTS
+texts = [["Afrikaans","Baie dankie"],["Czech","Děkuju."],["Arabic","شكرا"],["Afrikaans","Baie dankie"],["Albanian","Falemnderit."],["Amharic","እናመሰግናለን"],["Arabic","شكرا"],["Armenian","Շնորհակալություն:"],["Azerbaijani","Təşəkkür edirəm."],["Bangla","আপনাকে ধন্যবাদ।"],["Basque","Eskerrik asko."],["Belarusian","Дзякуй."],["Bosnian","Hvala."],["Bulgarian","Благодаря."],["Burmese","သငျသညျ"],["Catalan","Gràcies"],["Cebuano","Salamat"],["Chinese (Simplified)","谢谢。"],["Chinese (Traditional)","謝謝。"],["Corsican","À ringrazià"],["Croatian","Hvala Vam."],["Czech","Děkuju."],["Danish","Tak."],["Dutch","Dankjewel."],["English","Thank you."],["Esperanto","Dankon."],["Estonian","Aitäh."],["Filipino","Salamat sa inyo."],["Finnish","Kiitos."],["French","Merci."],["Galician","Grazas."],["Georgian","დიდი მადლობა."],["German","Danke."],["Greek","Σας ευχαριστώ"],["Gujarati","આપનો આભાર."],["Haitian Creole","Mèsi poutèt ou."],["Hausa","Gode"],["Hawaiian","Mahalo"],["Hebrew","תודה"],["Hindi","धन्यवाद।"],["Hmong","Ua tsaug rau koj"],["Hungarian","Köszönöm."],["Icelandic","Þakka þér."],["Igbo","Daalụ"],["Indonesian","Terima kasih"],["Irish","Go raibh maith"],["Italian","Grazie."],["Japanese","ありがとうございます。"],["Javanese","ありがとうございます。"],["Kannada","ಧನ್ಯವಾದಗಳು."],["Kazakh","Рахмет."],["Khmer",""],["Korean","감사합니다."],["Kurdish","Spas dikim"],["Kyrgyz","Рахмат."],["Lao",""],["Latin","Tibi gratias ago"],["Latvian","Paldies."],["Lithuanian","Ačiū."],["Luxembourgish","Merci"],["Macedonian","Ви благодариме."],["Malagasy","Misaotra"],["Malay","Terima kasih."],["Malayalam","നന്ദി"],["Maltese","Grazzi"],["Maori","Mauruuru"],["Marathi","धन्यवाद."],["Mongolian","Та бүхэнд баярлалаа."],["Nepali","धन्यवाद।"],["Norwegian","Takk."],["Nyanja","Zikomo"],["Pashto","مننه"],["Persian","متشکرم."],["Polish","Dziękuję."],["Portuguese","Obrigado."],["Punjabi","ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ."],["Romanian","Mulțumesc."],["Russian","Спасибо."],["Samoan","Faafetai lava."],["Scottish Gaelic","Tapadh leibh"],["Serbian","Хвала."],["Shona","Mazvita"],["Sindhi","توهان جي مهرباني"],["Sinhala","ඔබට ස්තුතියි."],["Slovak","Ďakujem."],["Slovenian","Hvala"],["Somali","Waad ku mahadsan tahay"],["Southern Sotho","Kea leboha."],["Spanish","Gracias."],["Sundanese","Hatur nuhun"],["Swahili","Asante."],["Swedish","Tack."],["Tajik","Ташаккур ба"],["Tamil","நன்றி."],["Telugu","ధన్యవాదాలు."],["Thai","ขอบคุณ"],["Turkish","Teşekkür ederiz."],["Ukrainian","Дякую"],["Urdu","آپ کا شکریہ."],["Uzbek","Rahmat."],["Vietnamese","Cám ơn."],["Welsh","Diolch yn fawr"],["Western Frisian","Tige tank"],["Xhosa","Enkosi"],["Yiddish","א דאנק איר."],["Yoruba","O ṣeun."],["Zulu","Ngiyabonga."],];
+
 
 var t = 0;
 
